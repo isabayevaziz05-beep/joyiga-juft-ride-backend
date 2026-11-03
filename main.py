@@ -1,4 +1,3 @@
-blob:https://shartnoma.edu.uz/3ad93bd2-21d9-49db-81ec-a3ffc5d2bf55
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List, Optional
