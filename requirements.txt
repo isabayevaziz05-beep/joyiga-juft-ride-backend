@@ -1,0 +1,3 @@
+writing{variant=“document” title=“requirements.txt” id=“73182”}
+fastapi
+uvicorn
